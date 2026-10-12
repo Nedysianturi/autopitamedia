@@ -10,6 +10,30 @@
   Referrer-Policy: no-referrer
   X-Content-Type-Options: nosniff
 
+/auth/threads/deauthorize*
+  Cache-Control: no-store, no-cache, must-revalidate, max-age=0
+  Pragma: no-cache
+  Referrer-Policy: no-referrer
+  X-Content-Type-Options: nosniff
+
+/auth/threads/deauthorize.html
+  Cache-Control: no-store, no-cache, must-revalidate, max-age=0
+  Pragma: no-cache
+  Referrer-Policy: no-referrer
+  X-Content-Type-Options: nosniff
+
+/auth/threads/delete-data*
+  Cache-Control: no-store, no-cache, must-revalidate, max-age=0
+  Pragma: no-cache
+  Referrer-Policy: no-referrer
+  X-Content-Type-Options: nosniff
+
+/auth/threads/delete-data.html
+  Cache-Control: no-store, no-cache, must-revalidate, max-age=0
+  Pragma: no-cache
+  Referrer-Policy: no-referrer
+  X-Content-Type-Options: nosniff
+
 /auth/tiktok/callback*
   Cache-Control: no-store, no-cache, must-revalidate, max-age=0
   Pragma: no-cache

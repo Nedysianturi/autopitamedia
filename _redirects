@@ -1,2 +1,4 @@
 /auth/tiktok/callback /auth/tiktok/callback.html 200
 /auth/threads/callback /auth/threads/callback.html 200
+/auth/threads/deauthorize /auth/threads/deauthorize.html 200
+/auth/threads/delete-data /auth/threads/delete-data.html 200
